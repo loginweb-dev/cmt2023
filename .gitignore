@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/chatbot/node_modules
+/public/chatbot/.wwebjs_auth
+/storage
+/vendor
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
